@@ -4,6 +4,7 @@ title: Use argument in Python
 data: 2016-07-15
 categories: python
 ---
+파이썬에서 Argument 사용하기
 
 ```
 import argparse

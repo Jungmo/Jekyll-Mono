@@ -4,6 +4,7 @@ title: Raspberry Pi OS설치
 data: 2016-04-26
 categories: Raspberry Pi   
 ---
+MAC, Linux 환경에서 Raspberry Pi OS 설치하는 방법
 
 1. 라즈베리파이 홈에서 OS image 다운로드.
 2. diskutil list로 현재 마운트되어있는 디스크 확인.

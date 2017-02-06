@@ -4,7 +4,7 @@ title: CNN Parameter
 data: 2016-07-21
 categories: python
 ---
-## Convolution Layer
+Convolution Layer 설계하는 법
 
 ![alt text](https://github.com/Jungmo/jungmo.github.com/blob/master/_posts/img/cnn_para.png?raw=true "CNN parameter")
 
@@ -23,7 +23,7 @@ categories: python
 * P는 모서리를 0으로 채우는 걸 몇 겹으로 할 건지
 
 ```
-K는 대개 2의 제곱을 사용하고, 
+K는 대개 2의 제곱을 사용하고,
 
 F = 3, S = 1, P = 1
 F = 5, S = 1, P = 2
@@ -64,4 +64,3 @@ S는 Stride
 * W2 = (W1-F)/S + 1
 * H2 = (H1-F)/S + 1
 * D2 = D1
-
